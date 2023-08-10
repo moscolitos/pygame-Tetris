@@ -36,5 +36,5 @@ python tetris-POC.py
 - Next shape preview: View the next tetromino on the right-hand side.
 
 ## Credits
-### Developer: Mosco
-### Libraries: Pygame
+#### Developer: Mosco
+#### Libraries: Pygame
